@@ -110,19 +110,19 @@ export class DeleteCustomerFail implements Action {
   constructor(public payload: string) {}
 }
 
-export type Action =
-  | LoadCustomers
-  | LoadCustomersSuccess
-  | LoadCustomersFail
-  | LoadCustomer
-  | LoadCustomerSuccess
-  | LoadCustomerFail
-  | CreateCustomer
-  | CreateCustomerSuccess
-  | CreateCustomerFail
-  | UpdateCustomer
-  | UpdateCustomerSuccess
-  | UpdateCustomerFail
-  | DeleteCustomer
-  | DeleteCustomerSuccess
-  | DeleteCustomerFail;
+// export type Action =
+//   | LoadCustomers
+//   | LoadCustomersSuccess
+//   | LoadCustomersFail
+//   | LoadCustomer
+//   | LoadCustomerSuccess
+//   | LoadCustomerFail
+//   | CreateCustomer
+//   | CreateCustomerSuccess
+//   | CreateCustomerFail
+//   | UpdateCustomer
+//   | UpdateCustomerSuccess
+//   | UpdateCustomerFail
+//   | DeleteCustomer
+//   | DeleteCustomerSuccess
+//   | DeleteCustomerFail;

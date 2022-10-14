@@ -13,6 +13,41 @@
       "address": "893 Main Voulevard",
       "membership": "Pro",
       "id": 2
+    },
+    {
+      "name": "Ravi Kumar",
+      "phone": "1234567990",
+      "address": "chandigarh",
+      "membership": "Basic",
+      "id": 3
+    },
+    {
+      "name": "Kishan",
+      "phone": "8457458956",
+      "address": "chandigarh",
+      "membership": "Platinum",
+      "id": 4
+    },
+    {
+      "name": "Rahul Bhardwaj",
+      "phone": "987454754",
+      "address": "Chandigarh",
+      "membership": "Basic",
+      "id": 5
+    },
+    {
+      "name": "Shubham ",
+      "phone": "9788722779",
+      "address": "Chandigarh",
+      "membership": "Basic",
+      "id": 6
+    },
+    {
+      "name": "Vishal Rana",
+      "phone": "8745215416",
+      "address": "Chandigarh",
+      "membership": "Basic",
+      "id": 7
     }
   ]
 }
